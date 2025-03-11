@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteOptions InheritDown
+
+RedirectMatch 301 /redict.html(.*) https://jordimm98.github.io/redirect
